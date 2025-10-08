@@ -16,7 +16,7 @@
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
-  background-color: rgba(7, 7, 7, 0.8);
+  /* background-color: rgba(7, 7, 7, 0.8); */
   transition: background-color 0.3s ease;
 }
 
